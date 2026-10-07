@@ -12,8 +12,8 @@ chat-connected agents). Nothing in this repository is OpenClaw itself.
 
 ## Status
 
-Dormant. The repo has a single commit (2026-03-28, "chore: checkpoint local
-workspace state"), one branch, no tests and no CI.
+Dormant. The repo began with a 2026-03-28 checkpoint and this README is the
+second commit on the branch. It has no tests and no CI.
 
 The content is an unfilled template, not a configured agent:
 
