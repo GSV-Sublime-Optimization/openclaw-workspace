@@ -1,0 +1,12 @@
+# Colony project record for openclaw-workspace.
+# No build_profile: the repo has no code, no tests, and no CI, so there
+# is no build to declare. Fields the repo itself does not state (os,
+# agent_policy, release, authority) are omitted rather than invented.
+schema: gsv.project/v1
+id: openclaw-workspace
+name: openclaw-workspace
+repo: GSV-Sublime-Optimization/openclaw-workspace
+domain: infrastructure
+maturity: dormant
+privacy: public
+notes: Git snapshot of an OpenClaw agent workspace (starter files only, no application code, no tests, no CI). Public repo holding unfilled templates only; see README privacy warning and START_HERE.md. Predates the current OpenClaw layout; migration path is openclaw doctor --fix (review diff before committing).
